@@ -43,4 +43,6 @@ dependency-reduced-pom.xml
 buildNumber.properties
 .mvn/timing.properties
 
+### Comstom ###
 application-dev.yml
+.gitignore.bak
